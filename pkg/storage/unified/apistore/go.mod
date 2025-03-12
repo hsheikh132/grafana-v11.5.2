@@ -23,7 +23,7 @@ require (
 	gocloud.dev v0.40.0
 	golang.org/x/exp v0.0.0-20240909161429-701f63a606c0
 	google.golang.org/grpc v1.69.2
-	k8s.io/apimachinery v0.32.0
+	k8s.io/apimachinery v0.32.3
 	k8s.io/apiserver v0.32.0
 	k8s.io/client-go v0.32.0
 	k8s.io/klog/v2 v2.130.1
