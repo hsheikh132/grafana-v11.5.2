@@ -165,7 +165,7 @@ require (
 	golang.org/x/oauth2 v0.25.0 // @grafana/identity-access-team
 	golang.org/x/sync v0.10.0 // @grafana/alerting-backend
 	golang.org/x/text v0.21.0 // @grafana/grafana-backend-group
-	golang.org/x/time v0.9.0 // @grafana/grafana-backend-group
+	golang.org/x/time v0.11.0 // @grafana/grafana-backend-group
 	golang.org/x/tools v0.29.0 // indirect; @grafana/grafana-as-code
 	gonum.org/v1/gonum v0.15.1 // @grafana/oss-big-tent
 	google.golang.org/api v0.216.0 // @grafana/grafana-backend-group
