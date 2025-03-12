@@ -11,7 +11,7 @@ require (
 	go.opentelemetry.io/contrib/propagators/jaeger v1.33.0
 	go.opentelemetry.io/otel v1.33.0
 	go.opentelemetry.io/otel/trace v1.33.0
-	k8s.io/apimachinery v0.32.0
+	k8s.io/apimachinery v0.32.3
 	k8s.io/apiserver v0.32.0
 	k8s.io/component-base v0.32.0
 	k8s.io/klog/v2 v2.130.1
