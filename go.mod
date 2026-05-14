@@ -183,7 +183,7 @@ require (
 	k8s.io/kube-aggregator v0.32.0 // @grafana/grafana-app-platform-squad
 	k8s.io/kube-openapi v0.0.0-20241105132330-32ad38e42d3f // @grafana/grafana-app-platform-squad
 	k8s.io/utils v0.0.0-20241104100929-3ea5e8cea738 // @grafana/partner-datasources
-	sigs.k8s.io/structured-merge-diff/v4 v4.5.0 // @grafana-app-platform-squad
+	sigs.k8s.io/structured-merge-diff/v4 v4.7.0 // @grafana-app-platform-squad
 	xorm.io/builder v0.3.6 // @grafana/grafana-backend-group
 	xorm.io/core v0.7.3 // @grafana/grafana-backend-group
 	xorm.io/xorm v0.8.2 // @grafana/alerting-backend
