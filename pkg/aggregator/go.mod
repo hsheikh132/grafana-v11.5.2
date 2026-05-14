@@ -24,6 +24,7 @@ require (
 	cel.dev/expr v0.18.0 // indirect
 	github.com/BurntSushi/toml v1.4.0 // indirect
 	github.com/NYTimes/gziphandler v1.1.1 // indirect
+	github.com/andybalholm/brotli v1.2.1 // indirect
 	github.com/antlr4-go/antlr/v4 v4.13.1 // indirect
 	github.com/apache/arrow-go/v18 v18.0.1-0.20241212180703-82be143d7c30 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 // indirect

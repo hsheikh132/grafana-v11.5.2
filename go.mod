@@ -23,7 +23,7 @@ require (
 	github.com/ProtonMail/go-crypto v0.0.0-20230828082145-3c4c8a2d2371 // @grafana/plugins-platform-backend
 	github.com/VividCortex/mysqlerr v0.0.0-20170204212430-6c6b55f8796f // @grafana/grafana-backend-group
 	github.com/alicebob/miniredis/v2 v2.33.0 // @grafana/alerting-backend
-	github.com/andybalholm/brotli v1.1.1 // @grafana/partner-datasources
+	github.com/andybalholm/brotli v1.2.1 // @grafana/partner-datasources
 	github.com/apache/arrow-go/v18 v18.0.1-0.20241212180703-82be143d7c30 // @grafana/plugins-platform-backend
 	github.com/armon/go-radix v1.0.0 // @grafana/grafana-app-platform-squad
 	github.com/aws/aws-sdk-go v1.55.5 // @grafana/aws-datasources
