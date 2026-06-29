@@ -1,6 +1,6 @@
 module github.com/grafana/grafana/kindsv2
 
-go 1.23.1
+go 1.25.0
 
 require github.com/grafana/cog v0.0.5
 
@@ -14,7 +14,7 @@ require (
 	github.com/getkin/kin-openapi v0.128.0 // indirect
 	github.com/go-openapi/jsonpointer v0.21.0 // indirect
 	github.com/go-openapi/swag v0.23.0 // indirect
-	github.com/google/go-cmp v0.6.0 // indirect
+	github.com/google/go-cmp v0.7.0 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/grafana/codejen v0.0.4-0.20230321061741-77f656893a3d // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
