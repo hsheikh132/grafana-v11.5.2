@@ -135,7 +135,7 @@ require (
 	github.com/spf13/cobra v1.8.1 // @grafana/grafana-app-platform-squad
 	github.com/spf13/pflag v1.0.5 // @grafana-app-platform-squad
 	github.com/spyzhov/ajson v0.9.0 // @grafana/grafana-app-platform-squad
-	github.com/stretchr/testify v1.10.0 // @grafana/grafana-backend-group
+	github.com/stretchr/testify v1.11.1 // @grafana/grafana-backend-group
 	github.com/teris-io/shortid v0.0.0-20171029131806-771a37caa5cf // @grafana/grafana-backend-group
 	github.com/ua-parser/uap-go v0.0.0-20211112212520-00c877edfe0f // @grafana/grafana-backend-group
 	github.com/urfave/cli v1.22.16 // indirect; @grafana/grafana-backend-group
@@ -171,7 +171,7 @@ require (
 	google.golang.org/api v0.216.0 // @grafana/grafana-backend-group
 	google.golang.org/grpc v1.69.2 // @grafana/plugins-platform-backend
 	google.golang.org/protobuf v1.36.1 // @grafana/plugins-platform-backend
-	gopkg.in/ini.v1 v1.67.0 // @grafana/alerting-backend
+	gopkg.in/ini.v1 v1.67.3 // @grafana/alerting-backend
 	gopkg.in/mail.v2 v2.3.1 // @grafana/grafana-backend-group
 	gopkg.in/yaml.v3 v3.0.1 // @grafana/alerting-backend
 	k8s.io/api v0.32.0 // @grafana/grafana-app-platform-squad
@@ -499,6 +499,7 @@ require (
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
 	github.com/hashicorp/go-rootcerts v1.0.2 // indirect
 	github.com/hashicorp/serf v0.10.1 // indirect
+	github.com/jtolds/gls v4.20.0+incompatible // indirect
 	github.com/maypok86/otter v1.2.2 // indirect
 	github.com/mdlayher/socket v0.4.1 // indirect
 	github.com/mdlayher/vsock v1.2.1 // indirect
