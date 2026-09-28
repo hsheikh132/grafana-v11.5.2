@@ -1,6 +1,6 @@
 module github.com/grafana/grafana
 
-go 1.23.5
+go 1.26.0
 
 require (
 	buf.build/gen/go/parca-dev/parca/connectrpc/go v1.17.0-20240902100956-02fd72488966.1 // @grafana/observability-traces-and-profiling
@@ -165,7 +165,7 @@ require (
 	golang.org/x/oauth2 v0.25.0 // @grafana/identity-access-team
 	golang.org/x/sync v0.10.0 // @grafana/alerting-backend
 	golang.org/x/text v0.21.0 // @grafana/grafana-backend-group
-	golang.org/x/time v0.9.0 // @grafana/grafana-backend-group
+	golang.org/x/time v0.16.0 // @grafana/grafana-backend-group
 	golang.org/x/tools v0.29.0 // indirect; @grafana/grafana-as-code
 	gonum.org/v1/gonum v0.15.1 // @grafana/oss-big-tent
 	google.golang.org/api v0.216.0 // @grafana/grafana-backend-group
@@ -499,6 +499,7 @@ require (
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
 	github.com/hashicorp/go-rootcerts v1.0.2 // indirect
 	github.com/hashicorp/serf v0.10.1 // indirect
+	github.com/jtolds/gls v4.20.0+incompatible // indirect
 	github.com/maypok86/otter v1.2.2 // indirect
 	github.com/mdlayher/socket v0.4.1 // indirect
 	github.com/mdlayher/vsock v1.2.1 // indirect
